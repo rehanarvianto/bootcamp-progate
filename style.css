@@ -1,0 +1,39 @@
+body {
+	width: 100%;	
+	height: 2000px;
+	margin-left: 0px;
+}
+header {
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 45px;
+	position: fixed;
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+.main {	
+	height: 550px;
+	background-color: #c77575;
+	padding-top: 50px;
+	text-align: center;
+}
+.film {
+	padding-top: 20px;
+	background-color: #b56d6d;
+	font-family: century gothic;
+}
+.film h2 {
+	text-align: center;
+}
+.genre {
+	display: inline-flex;	
+
+}
+.action {
+	padding: 5px 55px;
+	margin: 10px;	
+	text-align: center;
+
+}
